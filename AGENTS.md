@@ -358,12 +358,14 @@ Example:
 
 Preferred image formats:
 
+
+
 ```id="s29"
 webp
 svg
 ```
 
-Avoid heavy images:
+Avoid heavy images but in general PNG and JPG image formats are allowed:
 
 ```id="s30"
 large jpg
@@ -489,4 +491,3 @@ This repository follows a **strict but simple architecture**:
 * simple Git workflow
 
 AI agents must follow these rules when generating or modifying code.
-
